@@ -1,5 +1,5 @@
 # Proyecto-TJBot
-## Manual del ejercicio TJBot 
+## Manual de montaje del TJBot 
 ### 	PROYECTO TJBOT
 <div id="texto1">En esta sección vamos a construir un TJBot con el que poder mantener una conversación. [6] </div>
 <br> 
