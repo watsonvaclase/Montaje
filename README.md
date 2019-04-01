@@ -13,13 +13,8 @@ de Watson y así poder hacer hablar a nuestro robot.</div>
 <b> 1.1.	CÓMO CREAR A TJBOT </b> <br> <br> 
 <b> 1.1.1.	RAPSBERRY PI3 </b> <br> <br>
 <div id="texto4">Raspberry Pi es un computador de placa única. <br> <br> <br>
-Para trabajar con la Raspberry Pi3 vamos a necesitar un  <br>
-monitor, un ratón, un teclado y una fuente de <br>
-alimentación para trabajar con ella. También debemos <br>
-tener una tarjeta micro SD con el sistema operativo <br>
-instalado, en este caso trabajaremos con el sistema <br>
-operativo Raspbian.</div> <br> <br>
-<img id="img2"src="imagenes/Imagen2.png"> <br><br>
+Para trabajar con la Raspberry Pi3 vamos a necesitar un monitor, un ratón, un teclado y una fuente de alimentación para trabajar con ella. También debemos tener una tarjeta micro SD con el sistema operativo instalado, en este caso trabajaremos con el sistema operativo Raspbian.</div> <br> <br>
+<img id="img2" src="imagenes/Imagen2.png"> <br><br>
 <div id="texto5"> Para crear nuestro TJBot hace falta conectar algunos componentes más a nuestra placa: </div>
 <div id="lista"> 
 <ul> 
