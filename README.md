@@ -1,14 +1,12 @@
 # Proyecto-TJBot
-## Manual del ejercicio TJBot en texto
-### 	PROYECTO TJ BOT
+## Manual del ejercicio TJBot 
+### 	PROYECTO TJBOT
 <div id="texto1">En esta sección vamos a construir un TJBot con el que poder mantener una conversación. [6] </div>
 <br> 
-<br>
 <br>
 <div id="texto2">Para ello vamos a utilizar una Raspberry Pi3, la cual conectaremos a los servicios de conversación <br>
 de Watson y así poder hacer hablar a nuestro robot.</div>
 <br> 
-<br>
 <br>
 <img id="img1" src="imagenes/Imagen1.png"> <br> <br>
 <p id="texto3"> El objetivo final será hacer que nuestro TJBot sea capaz de mantener una conversación con nosotros y obedezca algunas órdenes.</p> <br> 
