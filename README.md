@@ -43,7 +43,7 @@ Las piezas que conseguiremos serán las siguientes: <br> <br>
 <div> Después, cogemos la pieza "leg brace". Se encuentra en los dos orificios rectangulares en las <br>
 patas debajo de la mandíbula. Mantiene las piernas rectas y soporta la mandíbula. Debemos <br>
  asegurar que esté orientada de modo que haga contacto con la parte inferior de la mandíbula. </div> <br> <br>
-<img src="imagenes/Imagen5.png"id="img5"> <br> <br> <br>
+<img src="imagenes/Imagen5.png" id="img5"> <br> <br> <br>
 <div> Ahora, cogemos los pies y los insertamos en las muescas de la pierna como se muestra a <br>
  continuación. Inserta los pies desde el exterior de cada pierna. </div> <br> <br> <br>
 <img src="imagenes/Imagen6.png" id="img6"> <br> <br> <br>
