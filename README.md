@@ -1,9 +1,8 @@
 
 ## Manual de montaje del TJBot 
 
-<div id="texto1">En esta sección vamos a construir un TJBot con el que poder mantener una conversación. [6] </div>
+<div id="texto1">En esta sección vamos a construir un TJBot con el que poder mantener una conversación. </div>
 <br> 
-<br>
 <div id="texto2">Para ello vamos a utilizar una Raspberry Pi3, la cual conectaremos a los servicios de conversación <br>
 de Watson y así poder hacer hablar a nuestro robot.</div>
 <br> 
@@ -11,7 +10,7 @@ de Watson y así poder hacer hablar a nuestro robot.</div>
 <img id="img1" src="imagenes/Imagen1.png"> <br> <br>
 <p id="texto3"> El objetivo final será hacer que nuestro TJBot sea capaz de mantener una conversación con nosotros y obedezca algunas órdenes.</p> <br> 
 <b> 1.1.	CÓMO CREAR A TJBOT </b> <br> <br> 
-<b> 1.1.1.	RAPSBERRY PI3 </b> <br> <br>
+<b> 1.1.1.	RAPSBERRY PI3 </b> <br>
 <div id="texto4">Raspberry Pi es un computador de placa única. <br> <br> <br>
 Para trabajar con la Raspberry Pi3 vamos a necesitar un monitor, un ratón, un teclado y una fuente de alimentación para trabajar con ella. También debemos tener una tarjeta micro SD con el sistema operativo instalado, en este caso trabajaremos con el sistema operativo Raspbian.</div> <br> <br>
 <img id="img2" src="imagenes/Imagen2.png"> <br><br>
